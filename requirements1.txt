@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+uvicorn[srv]
+pymongo
